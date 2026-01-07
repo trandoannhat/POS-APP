@@ -1,5 +1,5 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import { Auth, Home, Orders } from "./pages/Index.jsx";
+import { Auth, Home, Orders } from "./pages/index";
 import Header from "./components/shared/Header";
 
 function App() {
