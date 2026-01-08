@@ -79,23 +79,23 @@ export const popularDishes = [
   },
 ];
 
-// export const tables = [
-//   { id: 1, name: "Table 1", status: "Booked", initial: "AM", seats: 4 },
-//   { id: 2, name: "Table 2", status: "Available", initial: "MB", seats: 6 },
-//   { id: 3, name: "Table 3", status: "Booked", initial: "JS", seats: 2 },
-//   { id: 4, name: "Table 4", status: "Available", initial: "HR", seats: 4 },
-//   { id: 5, name: "Table 5", status: "Booked", initial: "PL", seats: 3 },
-//   { id: 6, name: "Table 6", status: "Available", initial: "RT", seats: 4 },
-//   { id: 7, name: "Table 7", status: "Booked", initial: "LC", seats: 5 },
-//   { id: 8, name: "Table 8", status: "Available", initial: "DP", seats: 5 },
-//   { id: 9, name: "Table 9", status: "Booked", initial: "NK", seats: 6 },
-//   { id: 10, name: "Table 10", status: "Available", initial: "SB", seats: 6 },
-//   { id: 11, name: "Table 11", status: "Booked", initial: "GT", seats: 4 },
-//   { id: 12, name: "Table 12", status: "Available", initial: "JS", seats: 6 },
-//   { id: 13, name: "Table 13", status: "Booked", initial: "EK", seats: 2 },
-//   { id: 14, name: "Table 14", status: "Available", initial: "QN", seats: 6 },
-//   { id: 15, name: "Table 15", status: "Booked", initial: "TW", seats: 3 },
-// ];
+export const tables = [
+  { id: 1, name: "Bàn 1", status: "Đã đặt", initial: "AM", seats: 4 },
+  { id: 2, name: "Bàn 2", status: "Trống", initial: "MB", seats: 6 },
+  { id: 3, name: "Bàn 3", status: "Đã đặt", initial: "JS", seats: 2 },
+  { id: 4, name: "Bàn 4", status: "Trống", initial: "HR", seats: 4 },
+  { id: 5, name: "Bàn 5", status: "Đã đặt", initial: "PL", seats: 3 },
+  { id: 6, name: "Bàn 6", status: "Trống", initial: "RT", seats: 4 },
+  { id: 7, name: "Bàn 7", status: "Đã đặt", initial: "LC", seats: 5 },
+  { id: 8, name: "Bàn 8", status: "Trống", initial: "DP", seats: 5 },
+  { id: 9, name: "Bàn 9", status: "Đã đặt", initial: "NK", seats: 6 },
+  { id: 10, name: "Bàn 10", status: "Trống", initial: "SB", seats: 6 },
+  { id: 11, name: "Bàn 11", status: "Đã đặt", initial: "GT", seats: 4 },
+  { id: 12, name: "Bàn 12", status: "Trống", initial: "JS", seats: 6 },
+  { id: 13, name: "Bàn 13", status: "Đã đặt", initial: "EK", seats: 2 },
+  { id: 14, name: "Bàn 14", status: "Trống", initial: "QN", seats: 6 },
+  { id: 15, name: "Bàn 15", status: "Đã đặt", initial: "TW", seats: 3 },
+];
 
 // export const startersItem = [
 //   {
