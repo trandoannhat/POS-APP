@@ -17,7 +17,9 @@ const MiniCard = ({ title, icon, number, footerNum }) => {
         </button>
       </div>
       <div>
-        <h1 className="text-[#f5f5f5] text-4xl font-bold mt-5">{number}</h1>
+        <h1 className="text-[#f5f5f5] text-4xl font-bold mt-5">
+          {title === "Tổng doanh thu" ? `${number}` : number}
+        </h1>
         <h1 className="text-[#f5f5f5] text-lg mt-2">
           <span className="text-[#02ca3a]">{footerNum}%</span> hơn hôm qua
         </h1>
